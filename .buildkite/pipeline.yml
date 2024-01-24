@@ -1,5 +1,5 @@
 steps:
-- label: "Kubectl version :congratulations:"
+- label: ":kubernetes: Running on k8s agents!"
   agents:
     queue: kubernetes
   plugins:
